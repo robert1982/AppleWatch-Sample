@@ -117,10 +117,6 @@ Let's share knowledge, apps and happiness! Let's make this world a better place 
 
 # Contact
 
-Konstantin Koval  
-[konstantin.koval1@gmail.com](mailto:konstantin.koval1@gmail.com)  
-[@KostiaKoval](https://twitter.com/KostiaKoval)
+Robert Kouba 
+[rk19820108@gmail.com](mailto:rk19820108@gmail.com)  
 
-# Join us
-
-[Rocketfarm](http://www.rocketfarm.no)  - Place for amazing passionate IT professionals!
